@@ -1,5 +1,3 @@
-# Bryan Wilson
-
 Marine Special Operations and Offensive Cyber Operations Task Force Chief,
 transitioning into cloud infrastructure and DevSecOps. I build things end-to-end and
 own them in production.
