@@ -1,5 +1,4 @@
-Marine Special Operations and Offensive Cyber Operations Task Force Chief,
-transitioning into cloud infrastructure and DevSecOps. I build things end-to-end and
+Transitioning into cloud infrastructure and DevOps. I build things end-to-end and
 own them in production.
 
 ### Running in production (home lab)
@@ -38,4 +37,4 @@ pipeline (Trivy, gitleaks, SBOM, Cosign, Kyverno).
 - [Home Infrastructure Lab](https://github.com/blackcharger/home-infrastructure-lab) —
   architecture and design of the lab above.
 
-Open to remote cloud / DevSecOps roles.
+Open to remote cloud / DevOps roles.
